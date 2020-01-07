@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ts181296\\.nuget\\packages\\": {},
+    "C:\\Users\\tn182848\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ts181296\\Documents\\Visual Studio 2017\\C-sharp-projects\\C-Sharp-Projects\\War\\War-master\\War-master\\War2\\War2\\War2.csproj",
+      "projectUniqueName": "C:\\Users\\tn182848\\Desktop\\War\\War-master\\War-master\\War2\\War2\\War2.csproj",
       "projectName": "War2",
-      "projectPath": "C:\\Users\\ts181296\\Documents\\Visual Studio 2017\\C-sharp-projects\\C-Sharp-Projects\\War\\War-master\\War-master\\War2\\War2\\War2.csproj",
-      "packagesPath": "C:\\Users\\ts181296\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ts181296\\Documents\\Visual Studio 2017\\C-sharp-projects\\C-Sharp-Projects\\War\\War-master\\War-master\\War2\\War2\\obj\\",
+      "projectPath": "C:\\Users\\tn182848\\Desktop\\War\\War-master\\War-master\\War2\\War2\\War2.csproj",
+      "packagesPath": "C:\\Users\\tn182848\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tn182848\\Desktop\\War\\War-master\\War-master\\War2\\War2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ts181296\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tn182848\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
